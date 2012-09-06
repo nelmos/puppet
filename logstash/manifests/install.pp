@@ -4,7 +4,7 @@ class logstash::install {
   
   # contain logstash binary name
   # Change value by your logstash version
-  $logstash_binary = 'logstash.jar'
+  $logstash_binary = 'logstash-1.1.1-monolithic.jar'
 
   # Array containing a list of logstash directories
   $directories = ['/etc/logstash', '/etc/logstash/conf.d', '/usr/local/logstash', '/var/log/logstash']
