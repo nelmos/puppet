@@ -8,7 +8,7 @@ It's usable on Debian 5/6 & Redhat 4/5/6 systems.
 ---- PRE-REQUISITES ----
 
 1° Java must be installed on your system
-2 °Ensure command "which java" return the good java luncher path
+2° Ensure command "which java" return the good java luncher path
 
 
 
